@@ -67,7 +67,7 @@ If the workshop is moving too slowly for you or you're already familiar with som
   - Pure Functions vs. Side Effects
   - Time, state, and (in)sanity
   - Imperative vs. Declarative programming
-  
+
 **10:30-10:45** Coffee break
 
 **10:45-11:15** [Staying out of the loop with Recursion](recursion)
@@ -163,7 +163,7 @@ If the workshop is moving too slowly for you or you're already familiar with som
 - [FP utilities] [Ramda](https://ramdajs.com/) (also available in [Українська (Ukrainian)](https://github.com/ivanzusko/ramda)!)
 - [FP utilities] [Lodash](https://lodash.com/)
 - [Persistent Data Structures] [Immutable.js](https://facebook.github.io/immutable-js/)
-- [Persistent Data Structures] [Seamless-Immutable](https://github.com/rtfeldman/seamless-immutable)  
+- [Persistent Data Structures] [Seamless-Immutable](https://github.com/rtfeldman/seamless-immutable)
 - [FP utilities, Persistent Data Structures] [Mori](http://swannodette.github.io/mori/)
 
 ### Functional Languages
