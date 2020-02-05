@@ -3,7 +3,7 @@
 In functional programming, we avoid mutable state, and therefore avoid iterative loops using `for` or `while`. As an alternative to iteration, we use _recursion_ to break down the problem into smaller ones.
 
 A recursive function has two parts:
-- A base case: condition(s) under which the function returns an output without making a recursive call  
+- A base case: condition(s) under which the function returns an output without making a recursive call
 - A recursive case: condition(s) under which the function calls itself to return the output
 
 
