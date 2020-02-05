@@ -21,11 +21,9 @@ We'll learn how to follow the basic principles of the functional programming par
 - use higher-order functions like map & filter instead of iterative loops, and closures instead of objects & classes
 - avoid mutation (changing things in-place), and use immutable data structures for efficiency
 
-
 ## How do I use this repository?
 
 The examples in this repository are written in [Node.js](https://nodejs.org), and exercise instructions will assume that you're working in Node.
-
 
 - [ ] Install Node (version 6 or 8 recommended), if you don't already have it - I recommend installing via [NVM](https://github.com/creationix/nvm) (Node Version Manager). Installing Node also installs the package manager [npm](https://www.npmjs.com/).
 - [ ] Clone the workshop repository: `git clone https://github.com/vakila/functional-workshop.git`
@@ -56,8 +54,6 @@ If the workshop is moving too slowly for you or you're already familiar with som
 
 - Work on solving small programming problems in a functional style. Find a problem from [Exercism](https://exercism.io/tracks/javascript/exercises), [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/), or a similar site you like, and force yourself to solve it functionally.
 - Feel like reading rather than coding? Dive deeper into the topic(s) we're covering by checking out some of the resources listed below.
-
-
 
 ## Outline & Schedule
 
@@ -112,7 +108,6 @@ If the workshop is moving too slowly for you or you're already familiar with som
   - Libraries & languages to try
 
 **16:00** End
-
 
 ## References & Further Reading
 

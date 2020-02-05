@@ -6,9 +6,7 @@ Mutable data and mutating functions/methods allow us to change things in place -
 
 With immutable data, when we need to update something we can create a new, slightly different copy, rather than changing the original. This lets us avoid state and all the headaches that come with it.
 
-
 ## Exercises
-
 
 ### Living without mutation (`noMutators.js`)
   - [ ] Run the tests in `noMutators.test.js` with the command `node noMutators.test.js` - tests should be failing

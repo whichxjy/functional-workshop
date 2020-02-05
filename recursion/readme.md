@@ -6,7 +6,6 @@ A recursive function has two parts:
 - A base case: condition(s) under which the function returns an output without making a recursive call
 - A recursive case: condition(s) under which the function calls itself to return the output
 
-
 ## Exercises
 
 ### Iteration vs. recursion
